@@ -1,0 +1,13 @@
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.deps.json
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.runtimeconfig.json
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.runtimeconfig.dev.json
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.AssemblyInfoInputs.cache
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.AssemblyInfo.cs
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.csproj.CopyComplete
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.genruntimeconfig.cache
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode.Test\Debug\netcoreapp3.1\DemoCode.Test.csprojAssemblyReference.cache

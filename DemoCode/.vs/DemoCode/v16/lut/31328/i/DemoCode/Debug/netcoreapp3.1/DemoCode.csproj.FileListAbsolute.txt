@@ -1,0 +1,7 @@
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode\Debug\netcoreapp3.1\DemoCode.deps.json
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\b\DemoCode\Debug\netcoreapp3.1\DemoCode.dll
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode\Debug\netcoreapp3.1\DemoCode.csprojAssemblyReference.cache
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode\Debug\netcoreapp3.1\DemoCode.AssemblyInfoInputs.cache
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode\Debug\netcoreapp3.1\DemoCode.AssemblyInfo.cs
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode\Debug\netcoreapp3.1\DemoCode.csproj.CopyComplete
+C:\PhilipAutoFixtureWorkshop\AutoFixture_How_Session\Code\DemoCode\.vs\DemoCode\v16\lut\0\i\DemoCode\Debug\netcoreapp3.1\DemoCode.dll
